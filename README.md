@@ -6,3 +6,5 @@ https://www.w3schools.com/tags/ref_httpmessages.asp HTTP responses
 Skicka med Body eller QueryString från fromulär
 TLS, LSS och skillnaden mellan HTTP och HTTPS
 Samt Nätverks fliken i utvecklarläget på Google Chrome
+
+content-type: application/x-www-form-urlencoded
